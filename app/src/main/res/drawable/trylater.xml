@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:id="@+id/selected" android:oneshot="true" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dot1" android:duration="300"/>
+    <item android:drawable="@drawable/dot2" android:duration="300"/>
+    <item android:drawable="@drawable/dot3" android:duration="300"/>
+    <item android:drawable="@drawable/try_later_result" android:duration="600"/>
+</animation-list>

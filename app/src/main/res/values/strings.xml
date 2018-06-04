@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="back">Back</string>
+    <string name="title">A Room of Stuff</string>
+    <string name="begin">Begin</string>
+    <string name="bkg">bkg</string>
+    <string name="videos">Videos</string>
+    <string name="space_invaders">Play Game</string>
+    <string name="game_icon">Game_Icon</string>
+    <string name="movie_icon">Movie_Icon</string>
+    <string name="down">Down_Arrow</string>
+    <string name="up">Up_Arrow</string>
+    <string name="left">Left_Arrow</string>
+    <string name="right">Right_Arrow</string>
+    <string name="exit">exit</string>
+    <string name="title_activity_magic8">Magic8</string>
+</resources>
